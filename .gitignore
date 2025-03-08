@@ -1,0 +1,55 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+Icon?
+._*
+
+# macOS thumbnail files
+Thumbs.db
+.DS_Store
+__MACOSX/
+
+# Spotlight and Finder metadata
+.metadata_never_index
+.fseventsd
+
+# Trash folder (if somehow included)
+.Trash
+
+# VS Code specific files
+.vscode/
+*.code-workspace
+
+# Node.js dependencies (if using Node)
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Logs and temporary files
+logs/
+*.log
+*.swp
+*.swo
+*.swn
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.out
+*.exe
+*.dll
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
